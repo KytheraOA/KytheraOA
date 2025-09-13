@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Just your friendly neighborhood gargoyle and documentation czar (technical writer). 
 - 😄 Pronouns: she/her
 - 🔭 I’m currently working on: Docs-Like-Code practice
-- 🌱 I’m currently learning: Sphinx
+- 🌱 I’m currently learning: Docusaurus
 - 👯 I’m looking to collaborate on: Any kind of documentation undertaking
 - 💬 Ask me about: Gargoyles
-- 📫 How to reach me: Email (kythera@gmail) 
+- 📫 How to reach me: Email (documentationczar@gmail) 
