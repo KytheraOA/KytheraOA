@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏼
 
 <!--
 **KytheraOA/KytheraOA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Just your friendly neighborhood gargoyle and documentation czar (technical writer). 
-- 😄 Pronouns: she/her
-- 🔭 I’m currently working on: Rebuilding my website using [docs-as-code](https://github.com/KytheraOA/anevern-public) (Mintlify)
-- 🌱 I’m currently learning: CSS, docs-as-code
-- 👯 I’m looking to collaborate on: Any kind of documentation undertaking
-- 💬 Ask me about: Gargoyles
-- 📫 How to reach me: [Connect on LinkedIn]() | [Contact Form](https://documentation-czar.atlassian.net/jira/software/form/6af68aae-6adf-4930-b299-e31dd8700e40) | [Start a Discussion](https://github.com/KytheraOA/anevern-public/discussions)
-- 🔗 Technical writing portfolio: https://www.documentation-czar.com/
-- 🔗 Artist website: https://www.anevern.com/
+Just your friendly neighborhood gargoyle, documentation czar (technical writer), and artist. 
+- 😄 **Pronouns:** she/her
+- 🔭 **I’m currently working on:** Rebuilding my website using [docs-as-code](https://github.com/KytheraOA/anevern-public) (Mintlify)
+- 🌱 **I’m currently learning:** CSS, docs-as-code
+- 👥 **I’m looking to collaborate on:** Any kind of documentation undertaking
+- 💬 **Ask me about:** Gargoyles
+- 📫 **How to reach me:** [Connect on LinkedIn]() | [Contact Form](https://documentation-czar.atlassian.net/jira/software/form/6af68aae-6adf-4930-b299-e31dd8700e40) | [Start a Discussion](https://github.com/KytheraOA/anevern-public/discussions)
 
-<img width="auto" height="300" alt="Kythera's gargoyle mascot" src="https://github.com/user-attachments/assets/ec05963d-b14a-4e0e-a501-fd16a0c3144b" noZoom />
+## About me
+
+- Professionally, I am a technical writer with a background in quality assurance. I'm also an experienced Atlassian admin.
+  - 🔗 Technical writing portfolio: https://www.documentation-czar.com/
+- I am a lifelong artist. I primarily do fantasy art and _a lot_ of fan art. 
+  - 🔗 Artist website: https://www.anevern.com/
+
+<div align="left">
+  <div style="display: inline-block; border: 1px solid #ffffff1a; border-radius: 8px; padding: 20px; padding-bottom: 5px; overflow: hidden;">
+    <img src="https://github.com/user-attachments/assets/ec05963d-b14a-4e0e-a501-fd16a0c3144b" height="300" alt="Kythera's gargoyle mascot">
+    <div style="color: #a2a2a4; text-align: center; padding: 10px; font-style: italic; font-size: 12px;">
+      This is my mascot, <a href="https://www.anevern.com/galleries/crow-and-gargoyle/" target="_blank">Gary</a>
+    </div>
+  </div>
+</div>
+<br clear="left"/>
