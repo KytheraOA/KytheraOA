@@ -47,3 +47,7 @@ I love gargoyles for everything they represent: vigilence, protection, loyalty, 
 These are my core values when it comes to technical writing. Technical writing is so much more than writing new docs. We're editors, curators, guides, and guardians. Just like gargoyles protect their buildings from erosion, technical writers prevent _knowledge_ from eroding. Gargoyles didn't build the cathedral, but they're an essential part of it. Their job often goes unnoticed: watching over their domain, preserving clarity, and maintaining the structure that keeps everything standing. Like gargoyles, technical writers are sometimes overlooked or misunderstood. Nevertheless, we help knowledge _endure_.
 
 </details>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KytheraOA&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=KytheraOA&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KytheraOA&theme=midnight-purple)](https://git.io/streak-stats)
