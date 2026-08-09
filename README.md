@@ -48,6 +48,6 @@ These are my core values when it comes to technical writing. Technical writing i
 
 </details>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KytheraOA&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=KytheraOA&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KytheraOA&rank_icon=github&hide_title=true&show_icons=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=KytheraOA&rank_icon=github&hide_title=true&show_icons=true&theme=midnight-purple)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KytheraOA&theme=midnight-purple)](https://git.io/streak-stats)
