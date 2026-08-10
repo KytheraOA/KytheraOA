@@ -26,7 +26,9 @@ Just your friendly neighborhood gargoyle, documentation czar (technical writer),
 
 Professionally, I am a technical writer with a background in quality assurance. I'm also an experienced Atlassian admin (my portfolio is built using a pubic-facing Confluence space).  
 
-<a href="https://www.documentation-czar.com/"><img alt="Website" src="https://img.shields.io/badge/Technical_Writing_Portfolio-Documentation_Czar-rgba(76,29,104,1)?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAxOUg1VjVoN1YzSDVjLTEuMTEgMC0yIC45LTIgMnYxNGMwIDEuMS44OSAyIDIgMmgxNGMxLjEgMCAyLS45IDItMnYtN2gtMnY3ek0xNCAzdjJoMy41OWwtOS44MyA5LjgzIDEuNDEgMS40MUwxOSA2LjQxVjEwaDJWM0gtN3oiLz48L3N2Zz4="></a>
+<a href="https://www.documentation-czar.com/">
+  <img alt="Tech Writer Portfolio" src="https://img.shields.io/badge/Technical_Writing_Portfolio-Documentation_Czar-rgba(76,29,104,1)?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NzYgNTEyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTAgNjRDMCAyOC43IDI4LjcgMCA2NCAwSDIyNFYxMjhjMCAxNy43IDE0LjMgMzIgMzIgMzJIMzg0VjI4NS43bC04Ni44IDg2LjhjLTEwLjMgMTAuMy0xNy41IDIzLjEtMjEgMzcuMmwtMTguNyA3NC45Yy0yLjMgOS4yLTEuOCAxOC44IDEuMyAyNy41SDY0Yy0zNS4zIDAtNjQtMjguNy02NC02NFY2NHptMzg0IDY0SDI1NlYwTDM4NCAxMjh6TTU0OS44IDIzNS43bDE0LjQgMTQuNGMxNS42IDE1LjYgMTUuNiA0MC45IDAgNTYuNmwtMjkuNCAyOS40LTcxLTcxIDI5LjQtMjkuNGMxNS42LTE1LjYgNDAuOS0xNS42IDU2LjYgMHpNMzExLjkgNDE3TDQ0MS4xIDI4Ny44bDcxIDcxTDM4Mi45IDQ4Ny45Yy00LjEgNC4xLTkuMiA3LTE0LjkgOC40bC02MC4xIDE1Yy01LjUgMS40LTExLjItLjItMTUuMi00LjJzLTUuNi05LjctNC4yLTE1LjJsMTUtNjAuMWMxLjQtNS42IDQuMy0xMC44IDguNC0xNC45eiIvPjwvc3ZnPg==">
+</a>
 
 I'm also a lifelong artist. I primarily do fantasy art and _a lot_ of fan art.  
 
