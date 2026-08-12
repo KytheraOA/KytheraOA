@@ -57,10 +57,10 @@ I'm also a lifelong artist. I primarily do fantasy art and _a lot_ of fan art.
    
 I love gargoyles for everything they represent: vigilance, protection, loyalty, stewardship.
 
-These are my core values when it comes to technical writing. Technical writing is so much more than writing new docs. We're editors, curators, guides, and guardians. Just like gargoyles protect their buildings from erosion, technical writers prevent _knowledge_ from eroding. 
+These are my core values, including when it comes to technical writing. Technical writing is so much more than writing docs. We're editors, curators, guides, and guardians. Just like gargoyles protect their buildings from erosion (and hostile intruders), technical writers prevent _knowledge_ from eroding.
 
-Gargoyles didn't build the cathedral, but they're an essential part of it. Their job often goes unnoticed: watching over their domain, preserving clarity, and maintaining the structure that keeps everything standing. Their value is easily taken for granted, and not undnerstood until the consequences of their absence appear.
+The gargoyles didn't build the cathedrals and spires they call home, but they're an essential part of them nonetheless. Their job often goes unnoticed: watching over their domain and maintaining the structure that keeps everything standing. They are often misunderstood and their value is easily taken for granted until the consequences of their absence manifest.
 
-Like gargoyles, technical writers are sometimes overlooked or misunderstood. Nevertheless, we help knowledge _endure_.
+Like gargoyles, technical writers are usually overlooked or misunderstood. Nevertheless we persist and we help information _endure_.
 
 </details>
